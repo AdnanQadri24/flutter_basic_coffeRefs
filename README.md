@@ -1,8 +1,8 @@
 # Coffee Card
 
 A new Flutter project.
-![Deskripsi Gambar](/assets/img/tampilan_awal.png)
-![Deskripsi Gambar](/assets/img/tampilan_setelah.png)
+<img src="/assets/img/tampilan_awal.png" alt="Deskripsi Gambar" width="400"/>
+<img src="/assets/img/tampilan_setelah.png" alt="Deskripsi Gambar" width="400"/>
 
 ## Getting Started
 
