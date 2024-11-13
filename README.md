@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="/assets/img/tampilan_awal.png" alt="Tampilan Awal" width="300" style="margin-right: 80px;"/> <img src="/assets/img/tampilan_setelah.png" alt="Tampilan Setelah" width="300"/>
+<img src="/assets/img/tampilan_awal.png" alt="Tampilan Awal" width="300" style="margin-right: 100px;"/> <img src="/assets/img/tampilan_setelah.png" alt="Tampilan Setelah" width="300"/>
 
 ## Getting Started
 
