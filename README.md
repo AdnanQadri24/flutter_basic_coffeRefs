@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-<img src="/assets/img/tampilan_awal.png" alt="Tampilan Awal" width="300" style="margin-right: 100px;"/> <img src="/assets/img/tampilan_setelah.png" alt="Tampilan Setelah" width="300"/>
+<p align="center">
+  <img src="/assets/img/tampilan_awal.png" alt="Tampilan Awal" width="300"/> <img src="/assets/img/tampilan_setelah.png" alt="Tampilan Setelah" width="300"/>
+</p>
 
 ## Getting Started
 
@@ -30,3 +32,12 @@ cd coffee_card
 
 # Install dependencies
 flutter pub get
+```
+
+## Running the Project
+
+To run the project, you can use the following command:
+
+```bash
+flutter run
+```
