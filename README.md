@@ -8,7 +8,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A new Flutter project created to help me understand the basics of Flutter. The goal is to build a foundation that will make it easier to create larger and more complex projects in the future.
 
 A few resources to get you started if this is your first Flutter project:
 
