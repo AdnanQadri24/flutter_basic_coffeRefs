@@ -1,6 +1,8 @@
 # Coffee Card
 
 A new Flutter project.
+![Deskripsi Gambar](/assets/img/tampilan_awal.png)
+![Deskripsi Gambar](/assets/img/tampilan_setelah.png)
 
 ## Getting Started
 
